@@ -1,0 +1,5 @@
+- Build-VDI: Build VDIs from template and customization specification using csv input
+- Entitlements: create machine pools in horizon and add entitlements
+- EmptyTempFolder: Removes all items from C:\Temp
+- InstallSophos: Using PSExec, copy the installer and run a silent install on remote machines
+- PSexecStuff: Command to run in cmd to enable winrm on remote machines with PSExec

@@ -1,0 +1,2 @@
+VCTemplate,VMname,VMIP,VMSubnetMask,VMDefaultGW,DNSServer1,DNSServer2,VMHost,Datastore,Portgroup,CustSpecName
+DISVDI,uANOTRANR,10.90.37.23,255.255.255.0,10.90.37.1,10.90.32.228,10.91.32.228,lfoesxt3301.transmission.disp,VxRail-Virtual-SAN-Datastore-5ce2e525-3f0d-4efa-8a42-779129caa262,DPortGroup_Guests_238,VLAN238

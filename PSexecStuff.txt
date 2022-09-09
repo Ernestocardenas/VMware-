@@ -1,0 +1,3 @@
+##Enable winrm
+psexec @hostnames.txt -s winrm.cmd quickconfig -q
+
