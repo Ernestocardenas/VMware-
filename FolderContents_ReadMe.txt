@@ -1,0 +1,16 @@
+- CIP-004LocalUsers: Outputs local users to console
+- CIP-004-Win10: Outsputs local users to html file
+- GetADUsers: Outputs members of AD object given full ADS path
+- PWChangeDate: Outputs password change date of local enabled accounts to console
+- PWChangeDateHTML: Outputs password change date of local enabled accounts to HTML file
+- Get-Usermembership: Given SLID, returns AD group membership
+- xvm-3.1.jar: VMWare cross vcenter migration tool
+- /bin: Folder containes scripts used once the VDIs have been created
+- /DisableQuickSync: Disables quicksync feature on iDRACs. *Requires POSH-SSH module
+- /ESX-DisableCIM: Disables CIM feature on ESXi hosts
+- /Build-VDI: Scripts used during and after VDI builds
+- Get-OU: Returns computer OU to console
+- /Get-FQDN: Returns FQDN of list of hostnames to console
+- /GetIP: exports IP address of list of hostnames
+- /QRadarHelper: Performs successful and failed logins over ssh *requires POSH-SSH module
+- /ESXScripts: Misc PowerCLI scripts
